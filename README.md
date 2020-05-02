@@ -1,6 +1,6 @@
 # Photo Upload Helper for Laravel
 
-This is a helper function that will help to upload a photo in Laravel. It will also help you to remove the previously upload file in case of an update or delete.
+This is a helper function that will help to upload a photo in Laravel. It will also help you to remove the previously uploaded file in case of an update or delete.
 
 ## Installation
 
